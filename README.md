@@ -2,7 +2,7 @@
 
 Hi, my name is Vinícius Lopes and I enjoy creating and delivering digital products that make people's lives easier.
 
-I'm a Software Developer with knowledge in multiple languages and platforms, that had the opportunity to work in multiple areas of software development, from mobile to backend and leading great development teams.
+I'm a Software Developer with knowledge in multiple languages and platforms, that had the opportunity to work in multiple areas of software development, from mobile to backend and working with development teams.
 
 #### Some tech I love to work with
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
