@@ -11,5 +11,5 @@ I'm a Software Developer with knowledge in multiple languages and platforms, tha
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uasouz&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uasouz&theme=tokyonight&size_weight=0.5&count_weight=0.5)
