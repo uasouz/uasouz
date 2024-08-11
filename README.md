@@ -1,4 +1,4 @@
-### Welcome, adventurer!
+### Welcome!
 
 Hi, my name is Vinícius Lopes and I enjoy creating and delivering digital products that make people's lives easier.
 
